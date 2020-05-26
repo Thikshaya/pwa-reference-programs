@@ -1,0 +1,10 @@
+#history {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.article_item {
+    margin: 10px;
+    width: 250px;
+}
